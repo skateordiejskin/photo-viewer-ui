@@ -1,0 +1,27 @@
+@import 'vendor/flexboxgrid';
+
+
+.container {
+    width: initial;
+    max-width: 1600px;
+    // margin:auto;
+}
+
+.pagination {
+    button {
+        color: blue;
+        border:0;
+
+        font-size: 18px;
+    }
+}
+select {
+    font-size: 18px;
+}
+.filter {
+    margin-bottom: 20px;
+}
+
+.photo {
+    margin: 10px;
+}

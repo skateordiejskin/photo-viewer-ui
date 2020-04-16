@@ -1,24 +1,25 @@
-# photo-ui
+# Photo Viewer API
 
-## Project setup
-```
-yarn install
-```
+Requirements:
+- Node.js >=10
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## INSTALLATION STEPS
 
-### Compiles and minifies for production
-```
-yarn build
-```
+1) If not installed, install homebrew and yarn
 
-### Lints and fixes files
-```
-yarn lint
-```
+    ```
+     /bin/bash -c "(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+     brew install yarn
+
+    ```
+2) Clone repo and cd into folder
+
+3) Install packages
+
+     ` yarn install`
+
+4) start the server
+
+    `yarn serve`
+
