@@ -1,4 +1,8 @@
 # Photo Viewer API
+Tech Stack:
+- Vue 2
+- Flexbox grid http://flexboxgrid.com/
+- SCSS
 
 Requirements:
 - Node.js >=10
@@ -23,4 +27,8 @@ Requirements:
 5) start the server
 
     `yarn serve`
+
+Notes:
+
+-  `./src/pages/Home.vue` and `./src/store/index.js` are where all of the logic takes place
 
